@@ -14,6 +14,7 @@
 }
 
 body {
+  background: url(/images/topography.svg);
   background-color: rgb(230, 252, 230);
   font-size: 1.2rem;
   line-height: 1.6;
